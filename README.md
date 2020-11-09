@@ -28,4 +28,6 @@ A SwiftUI sheet to add a review for the restaurant to the database. Review is an
 
 
 ## Future Updates
-Some previews are currently commented out due to a previous implementation of the view. For the sake of time, I decided to comment out the previews so that the project could compile. Since previews are useful for development, I would try and reimplement the preview. Tests can be written to test the swift ui view state. 
+Some previews are currently commented out due to a previous implementation of the view. For the sake of time, I decided to comment out the previews so that the project could compile. Since previews are useful for development, I would try and reimplement the preview. Tests can be written to test the swift ui view state.
+
+As of now, there isn't the ability to edit the restaurant. I placed a few comments in the Content View about how I would go about creating that functionality.
