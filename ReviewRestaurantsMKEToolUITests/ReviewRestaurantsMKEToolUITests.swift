@@ -38,7 +38,7 @@ class ReviewRestaurantsMKEToolUITests: XCTestCase {
         let textLabel = app.staticTexts.element
         
         XCTAssert(textLabel.exists)
-        XCTAssertEqual(textLabel.label, "Sort By") 
+        XCTAssertEqual(textLabel.label, "Sort By")
         
         
         //Add tests to test the view state
