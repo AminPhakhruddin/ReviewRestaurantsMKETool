@@ -1,5 +1,5 @@
 # ReviewRestaurantsMKETool
-A trivial app for storing and viewing reviews of restaurants. This app was specifically designed to implement SwiftUI and Core Data.
+An app for storing and viewing reviews of restaurants. This app was specifically designed to implement SwiftUI and Core Data.
 
 ## Content View
 A SwiftUI view to see a list of restaurants to choose from. List is populated with data fetched from Core Database.
