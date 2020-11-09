@@ -111,7 +111,7 @@ struct ReviewsView: View {
  
  In order for the preview to work correctly, it required a restaurant to be passed in. I wasn't able to find a good solution and implement in a short amount of time.
  
- That being said, with the current implementation, var restaurantName, the preview can edited to allow a preview of this view.
+ That being said, with the current implementation, var restaurantName, the preview can edited to allow a preview of this view. 
  */
 
 
