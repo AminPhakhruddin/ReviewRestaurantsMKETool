@@ -76,21 +76,6 @@ struct ReviewsView: View {
                 .padding(.leading, -20)
                 .padding(.trailing, -20)
 
-//                List{
-//                    Text("Review 1")
-//                    Text("Review 1")
-//                    Text("Review 1")
-//                    Text("Review 1")
-//                    Text("Review 1")
-//                    Text("Review 1")
-//                    Text("Review 1")
-//
-//
-//                }
-//                .padding(.leading, -20)
-//                .padding(.trailing, -20)
-                //.padding(.top, -20)
-
             }
             Text("Hi")
         }
@@ -120,6 +105,14 @@ struct ReviewsView: View {
     }
 }
 
+
+/*
+ Note: The following preview is currently commented out due to some issues with a prior implementation of the current SwiftUI view. The first implementation required @State var restaurant: Restaurant.
+ 
+ In order for the preview to work correctly, it required a restaurant to be passed in. I wasn't able to find a good solution and implement in a short amount of time.
+ 
+ That being said, with the current implementation, var restaurantName, the preview can edited to allow a preview of this view.
+ */
 
 
 //struct ReviewsView_Previews: PreviewProvider {

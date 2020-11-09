@@ -76,6 +76,11 @@ struct ReviewSheet: View {
     }
 }
 
+
+/*
+ Note: Commented out the preview due to a prior implementation of the view. See notes in reviewView.swift line 110.
+ */
+
 //struct ReviewSheet_Previews: PreviewProvider {
 //    static var previews: some View {
 //        ReviewSheet()
