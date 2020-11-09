@@ -6,7 +6,6 @@ A SwiftUI view to see a list of restaurants to choose from. List is populated wi
 
 ![Simulator Screen Shot - iPhone 12 - 2020-11-08 at 21 23 08](https://user-images.githubusercontent.com/39076409/98497281-27a35e00-2209-11eb-8dbb-c3257cdc023c.png)
 
-
 ## Add Restaurant View
 A SwiftUI sheet to add a restaurant to the database. Restaurant is an entity, with attributes (type, name, id). Relationship to Reviews entity.
 
